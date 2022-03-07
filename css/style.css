@@ -119,7 +119,7 @@ section {
 
 }
 
-.caix:hover {
+.banner:hover .caix {
     color: rgb(255, 255, 255);
 }
 
