@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=League+Gothic&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200&display=swap');
 @keyframes rainbow { 
   0%{background-position:left}
   50%{background-position:right}
@@ -280,6 +280,31 @@ section {
     font-family: 'Staatliches', cursive;
  
 }
+
+.sobre .sobreeu {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.sobre .sobreeu img {
+    width: 550px;
+    margin-left: 60px;
+    margin-bottom: 60px;
+
+
+}
+
+
+.sobre .sobreeu h4 {
+    color: white;
+    font-family: 'Cairo', sans-serif;
+    font-size: 22px;
+    
+
+}
+
 
 
 
